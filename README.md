@@ -1,13 +1,11 @@
 # DailyIndia iOS App
 
-This repository contains a minimal example of a SwiftUI application.
+This repository contains the skeleton for the **DailyIndia** news application.
 
 ## Getting Started
 
-1. Open Xcode and choose **File > Open**.
-2. Select this repository directory and create a new project using the **App** template.
-3. Set **Product Name** to `DailyIndia` and ensure **Interface** is **SwiftUI**.
-4. Replace the auto-generated files with the ones in the `DailyIndia` folder or copy the code from them.
-5. Build and run the app on the iOS simulator or a device.
+1. Open `DailyIndia.xcodeproj` (create if it doesn't exist yet).
+2. Build and run the **DailyIndia** scheme on the iOS simulator or device.
 
-The sample app shows a greeting message on launch.
+The current project provides empty stubs for services, view models and views.
+Use them as starting points for implementing the app features.
